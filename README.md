@@ -1,4 +1,4 @@
-## 👋 Hello!
+## 🌱 Hello!
 
 I'm Renee Ge, currently a master's student at MIT in the [Center for Brains, Minds, and Machines](https://cbmm.mit.edu/). I was also an MIT undergraduate student from 2021-2025 and double-majored in Computation & Cognition and Literature. I like to read, take pictures, go to museums, try new restaurants, and think about research!
 
